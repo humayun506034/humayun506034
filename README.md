@@ -1,8 +1,8 @@
-# 👋 Md. Humayun Kabir Sobuj - Full stuck Web Developer
+# 👋 Md. Humayun Kabir Sobuj - MERN Stack Web Developer
 
 ![Profile Image](/src/GithubBanner.jpg)
 
-Hey there! I'm Jibon Krishna Roy, a passionate Web Developer from Dhaka, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
+Hey there! I'm Md. Humayun Kabir Sobuj, a passionate Web Developer from Dhaka, Bangladesh. Welcome to my GitHub repository, where I showcase my skills, projects, and contributions to the tech community.
 <div align="center">
 
 # 📊 My GitHub Stats:
