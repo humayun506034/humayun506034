@@ -6,9 +6,9 @@ Hey there! I'm Md. Humayun Kabir Sobuj, a passionate Web Developer from Dhaka, B
 
 # 📊 My GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=HumayunKabirSobuj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HumayunKabirSobuj&theme=dark&hide_border=false" alt="GitHub Streak" /> <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumayunKabirSobuj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=web-dev-humayun&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> <br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=web-dev-humayun&theme=dark&hide_border=false" alt="GitHub Streak" /> <br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-dev-humayun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🚀 About Me
