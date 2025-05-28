@@ -24,6 +24,8 @@ Thanks for stopping by — feel free to explore and connect!
 
 </div>
 
+## :mailbox: Reach me out
+
 <p align="center">
   <a href="https://www.linkedin.com/in/devhumayun123/">
     <img height="50" src="/src/Linkedin.png" alt="LinkedIn" />
