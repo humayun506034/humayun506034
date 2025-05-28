@@ -10,7 +10,7 @@ Thanks for stopping by — feel free to explore and connect!
 
 ## 💫 Current Overview
 
-- 🔭 **Currently Working At:** [Programming Hero](https://www.programming-hero.com/)
+- 🔭 **Currently Working At:** Programming Hero
 - 🌱 **Currently Learning:** Next.js (because growth never stops 🚀)
 - 🤝 **Open to Collaborate:** Excited to contribute to meaningful open source projects
 - 💬 **Ask Me About:** React, Next.js, or anything web-related!
