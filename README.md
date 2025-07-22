@@ -27,9 +27,7 @@ Thanks for stopping by — feel free to explore and connect!
 ## :mailbox: Reach me out
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devhumayun123/">
-    <img height="50" src="/src/Linkedin.png" alt="LinkedIn" />
-  </a>
+  
   <a href="https://www.facebook.com/md.humayunkabirsobuj506034">
     <img height="50" src="/src/Facebook.png" alt="Facebook" />
   </a>
