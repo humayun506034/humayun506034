@@ -10,8 +10,8 @@ Thanks for stopping by — feel free to explore and connect!
 
 ## 💫 Current Overview
 
-- 🔭 **Currently Working At:** Programming Hero
-- 🌱 **Currently Learning:** Next.js (because growth never stops 🚀)
+- 🔭 **Currently Working At:** Softvence Agency ( MERN Stack Developer - Backend Focus )
+- 🌱 **Currently Learning:** Nest.js and DevOps (because growth never stops 🚀)
 - 🤝 **Open to Collaborate:** Excited to contribute to meaningful open source projects
 - 💬 **Ask Me About:** React, Next.js, or anything web-related!
 - ⚡ **Fun Fact:** I enjoy fixing bugs that I caused myself — yep, that’s called **character development** 😄
