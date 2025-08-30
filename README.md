@@ -19,8 +19,8 @@ Thanks for stopping by — feel free to explore and connect!
 
 ## 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=HumayunKabirSobuj&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HumayunKabirSobuj&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=humayun506034&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=humayun506034&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
