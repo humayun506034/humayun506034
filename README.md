@@ -1,42 +1,38 @@
-![Profile Image](/src/Banner.png)
+<p align="center"><img src="https://res.cloudinary.com/dn7oeugls/image/upload/c_limit,w_1400/v1780047220/Github_daph4j.png" alt="Profile Banner" width="100%" /></p>
 
-Hey there! I'm **Md. Humayun Kabir Sobuj**, a passionate and dedicated **Web Developer** based in **Dhaka, Bangladesh**.
+# Hi, I'm Humayun
 
-Welcome to my GitHub repository! Here you'll find a collection of my **projects, experiments** that reflect my journey and growth in the world of web development. I'm always excited to learn new technologies, solve real-world problems, and build meaningful digital experiences.
+Full Stack Developer with 1 year of professional experience building scalable, high-performance web applications. I work across frontend and backend to deliver reliable, user-focused products with clean architecture and maintainable code.
 
-Thanks for stopping by — feel free to explore and connect!
+## Professional Summary
 
-<div align="center">
+- Build end-to-end web applications using modern JavaScript and TypeScript ecosystems.
+- Design responsive, accessible interfaces with strong attention to usability.
+- Develop robust backend services and data models for production workloads.
+- Collaborate effectively in team environments using structured workflows and version control.
 
-## 💫 Current Overview
+## Core Skills
 
-- 🔭 **Currently Working At:** Softvence Agency ( MERN Stack Developer - Backend Focus )
-- 🌱 **Currently Learning:** Nest.js and DevOps (because growth never stops 🚀)
-- 🤝 **Open to Collaborate:** Excited to contribute to meaningful open source projects
-- 💬 **Ask Me About:** React, Next.js, or anything web-related!
-- ⚡ **Fun Fact:** I enjoy fixing bugs that I caused myself — yep, that’s called **character development** 😄
+### Frontend
 
-## 📊 GitHub Stats:
+| JavaScript | TypeScript | React | Next.js | Redux | Tailwind CSS |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript" /> | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" alt="TypeScript" /> | <img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React" /> | <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="42" alt="Next.js" /> | <img src="https://cdn.simpleicons.org/redux/764ABC" width="42" alt="Redux" /> | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" alt="Tailwind CSS" /> |
 
-![](https://nirzak-streak-stats.vercel.app/?user=humayun506034&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=humayun506034&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Backend and Databases
 
-</div>
+| Node.js | NestJS | Express.js | PostgreSQL | MongoDB | Redis | Prisma |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" alt="Node.js" /> | <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="42" alt="NestJS" /> | <img src="https://cdn.simpleicons.org/express/000000" width="42" alt="Express.js" /> | <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" alt="PostgreSQL" /> | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" alt="MongoDB" /> | <img src="https://cdn.simpleicons.org/redis/DC382D" width="42" alt="Redis" /> | <img src="https://cdn.simpleicons.org/prisma/2D3748" width="42" alt="Prisma" /> |
 
-## :mailbox: Reach me out
+### Tools and Platforms
 
-<p align="center">
-  
-  <a href="https://www.facebook.com/md.humayunkabirsobuj506034">
-    <img height="50" src="/src/Facebook.png" alt="Facebook" />
-  </a>
-  
-</p>
+| Docker | GitHub | Git | Postman | Figma | AWS |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="42" alt="Docker" /> | <img src="https://cdn.simpleicons.org/github/181717" width="42" alt="GitHub" /> | <img src="https://cdn.simpleicons.org/git/F05032" width="42" alt="Git" /> | <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" alt="Postman" /> | <img src="https://cdn.simpleicons.org/figma/F24E1E" width="42" alt="Figma" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" alt="AWS" /> |
 
-## 💻 Familiar Technologies:
+## Contact
 
-![NestJs](https://img.shields.io/badge/Nestjs-0C344B.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B.svg?style=for-the-badge&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111827.svg?style=for-the-badge&logo=none&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodejs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-[![](https://visitcount.itsvg.in/api?id=apurbopaul131&icon=0&color=0)](https://visitcount.itsvg.in)
+- Email: `humayunkabir506034@gmail.com
+`
+- Portfolio: `https://humayun506034.vercel.app/`
